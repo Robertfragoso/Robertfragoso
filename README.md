@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Robert Fragoso
 
-- 🔭 Atualmente trabalhando como Embalador em um supermercado convencional de bairro
-- 🌱 Estudante de Sistemas de Informação no Centro Universitário Cesmac - 2° Período
+- 🔭 Atualmente estudando lógica de programação, HTML e CSS
+- 🌱 Estudante de Sistemas de Informação no Centro Universitário Cesmac - 3° Período
 - 📫 Contate-me no E-mail: Contatorobertfragoso@outlook.com
 - ⚡ Curiosidade: Desde pequeno sempre fui fascinado por tecnologia. Sempre estava a jogar alguma coisa ou mexendo em algo relacionado a informática. 
 
