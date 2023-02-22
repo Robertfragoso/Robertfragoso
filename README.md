@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Robert Fragoso
 
-- 🔭 Atualmente estudando Html e Css
+- 🔭 Atualmente estudando HTML e CSS
 - 🌱 Estudante de Sistemas de Informação no Centro Universitário Cesmac - 3° Período
 - 📫 Contate-me no E-mail: Contatorobertfragoso@outlook.com
 - ⚡ Curiosidade: Me chamo Robert, tenho 20 anos, atualmente cursando Sistemas de Informação no Centro Universitário Cesmac e estou em busca do meu primeiro estágio na área de tecnologia. Desde pequeno sou apaixonado por tecnologia e afins. Tive meu primeiro computador com cerca de 8-9 anos e sempre estava a buscar novos conhecimentos. Nunca fiz um curso de informática oficialmente. Tudo que hoje sei foi por buscas de conhecimentos próprios. Tenho bastante facilidade com hardware, softwares e programas no geral.
